@@ -1,0 +1,2 @@
+Hi this is my first Git practice using Command Line
+And I will good at this
